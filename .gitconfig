@@ -1,0 +1,6 @@
+[user]
+	name = Øyvind Strømmen
+	email = insula.ventus@gmail.com
+[core]
+	autocrlf = input
+	excludesfile = ~/.git_global_exclusions
