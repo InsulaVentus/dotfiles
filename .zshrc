@@ -39,6 +39,7 @@ alias ll='ls -latr'
 alias pt='java -jar /usr/lib/parquet-tools/parquet-tools-1.10.0.jar'
 alias xprof='/home/oyvind/.xprofile'
 alias mci='mvn clean install'
+alias grpc='grpc_cli'
 
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
