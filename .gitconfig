@@ -4,3 +4,9 @@
 [core]
 	autocrlf = input
 	excludesfile = ~/.git_global_exclusions
+[credential]
+	helper = store
+[url "git@ssh.dev.azure.com:v3/Avinor/"]
+        insteadOf = https://dev.azure.com/Avinor/
+[includeIf "gitdir:~/work/avinor/"]
+    path = ~/work/avinor/.gitconfig
